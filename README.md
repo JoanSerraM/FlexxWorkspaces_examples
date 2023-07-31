@@ -12,7 +12,7 @@ Explicación del código:
 
 Importaciones:
 
-    import requests``
+    import requests
     import csv
     import time
     import pprint
