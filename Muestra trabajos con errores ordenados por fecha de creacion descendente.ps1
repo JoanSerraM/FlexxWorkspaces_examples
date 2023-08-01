@@ -1,7 +1,7 @@
 ﻿$api_url = 'https://fws-apim-93768.azure-api.net/api/'  # URL de la FWSAPI
 
 # Token en formato Basic
-$token = 'Basic NzkwODhkMzktNDE2ZC00ZTlmLTg4M2EtYTc4M2RhMzM4ODQwOm1oelNQRVQ0V3AxRmJ0Mip0OXVUckU1bkw='
+$token = 'BASIC TOKEN'
 
 $headers = @{
     'Content-Type' = 'application/json'
